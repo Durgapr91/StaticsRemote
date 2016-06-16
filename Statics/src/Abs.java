@@ -1,6 +1,6 @@
 
 public class Abs {
-  private int z=10;
+  private int z=50;
 
 
 
