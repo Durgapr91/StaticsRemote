@@ -5,10 +5,10 @@ public class test {
  
 	public static void main(String[]args)
 	{
-		go(3);
-	}
-	public static void go(final int x)
-	{
+		go(10);
+		}
+		public static void go(final int x)
+		{
 		System.out.println(x);
 	}
 }
