@@ -8,7 +8,7 @@ public class Data {
 	public static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
 	   public static final String DB_URL = "jdbc:mysql://localhost:3306/classicmodels";
 
-	   //  Database credentials for root user
+	   //  Database credentials for root userakkdla
 	   public static final String USER = "root";
 	   public static final String PASS = "dur@Shadow1414";
 	   public static void saveDetails(Driv dd)
